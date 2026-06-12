@@ -1,4 +1,4 @@
-# Claude Project Brief: Universal Template v1.8 (Blank)
+# Claude Project Brief: Universal Template (Blank)
 
 > This is the blank template. It contains the structure and guidance hints only, with no worked examples.
 > For worked examples showing each section fully populated, use `Claude-Project-Brief-Template-with-examples.md` from the same repository.
@@ -303,4 +303,4 @@ Do not skip steps.
 
 ---
 
-*Claude-Project-Brief-Template-v1.8-blank. Built from a real production project, validated across multiple independent projects. Freely adaptable for any project. British English throughout.*
+*Claude-Project-Brief-Template-blank. Built from a real production project, validated across multiple independent projects. Freely adaptable for any project. British English throughout.*
