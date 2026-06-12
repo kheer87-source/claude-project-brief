@@ -1,4 +1,4 @@
-# Claude Project Brief: Universal Template v1.8
+# Claude Project Brief: Universal Template with Examples
 
 ---
 
@@ -538,4 +538,4 @@ If your Claude project already has documents in its knowledge area, paste this p
 
 ---
 
-*Claude-Project-Brief-Template-v1.8. Built from a real production project, validated across multiple independent projects. Freely adaptable for any project. British English throughout.*
+*Claude-Project-Brief-Template-with-examples. Built from a real production project, validated across multiple independent projects. Freely adaptable for any project. British English throughout.*
