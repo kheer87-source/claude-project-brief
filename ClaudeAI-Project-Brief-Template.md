@@ -1,4 +1,4 @@
-# Claude Project Brief: Universal Template v1.7
+# Claude Project Brief: Universal Template
 
 ---
 
